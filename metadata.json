@@ -1,0 +1,8 @@
+{
+  "name": "AGT SAAS GROUPES SCOLAIRES ET UNIVERSITAIRES ",
+  "description": "Comprehensive cloud-based school management system featuring administrative tools, grade tracking, and student enrollment for educational institutions worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
